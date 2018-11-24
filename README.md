@@ -1,8 +1,10 @@
 # Parallelizing-Bayesian-Knowledge-Tracing-Tool
 Open source Parallelizing Bayesian Knowledge Tracing Tool
-## Data folder include four input data.
+## Data folder
+The data folder contains four sample input files
 
-## generateTestCase folder inlucde the data generatation script.
+## generateTestCase folder
+The generateTestCase folder contains scripts that generate test data
 
 ## python folder inlcude different python scripts of Parallelizing-Bayesian-Knowledge-Tracing-Tool.
 
